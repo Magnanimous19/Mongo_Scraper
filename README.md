@@ -5,4 +5,4 @@ Web app that lets users view and leave comments on the latest news. But you're n
 
 
 ### Note: 
-  Debug MME blocked, express ( static/    __dirname + "/public"    but   __dirname + "/"    works but without ccs
+  Debug MME blocked, app.use express static (__dirname + "/public")    but  ( __dirname + "/" )  works but without ccs
